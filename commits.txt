@@ -1,0 +1,29 @@
+commit c2ef513f13decc6476ca994eee4abd673c11620c
+Author: Angel Luna <angel.luna.najera@gmail.com>
+Date:   Mon Jan 19 23:35:04 2015 -0600
+
+    Cambio de titulo
+
+commit 90c0a79ed46b38a0d088d3001d88ade266b32350
+Author: Angel Luna <angel.luna.najera@gmail.com>
+Date:   Sun Jan 18 16:56:43 2015 -0600
+
+    agregué redes sociales
+
+commit 33d7a2e2947d50b27144585f5a7bea5bfaaa1f32
+Author: Angel Luna <angel.luna.najera@gmail.com>
+Date:   Sun Jan 18 16:32:01 2015 -0600
+
+    Perfil Web escrito
+
+commit 072383e58735b5cd904b93d84a982de520cddb09
+Author: Angel Luna <angel.luna.najera@gmail.com>
+Date:   Sun Jan 18 16:28:07 2015 -0600
+
+    subí foto de perfil y mi nombre
+
+commit 82f831fb47ea4ae61e2de8341185fa862fded118
+Author: Angel Luna <angel.luna.najera@gmail.com>
+Date:   Sun Jan 18 16:04:49 2015 -0600
+
+    Estos son los archivos bases del portafolio

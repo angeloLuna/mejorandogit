@@ -2,7 +2,7 @@ body
 {
 
  background: #00897b;
- font-size: 16px;
+ font-size: 17px;
 }
 
 a
@@ -29,7 +29,7 @@ ul li a p
 {
   width: 80%;
   list-style-type: none;
-  background: #303f9f;
+  background: #3d5afe;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;

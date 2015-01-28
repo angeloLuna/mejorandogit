@@ -1,7 +1,7 @@
 body
 {
 
- background: rgb(22, 21, 20);
+ background: #00897b;
  font-size: 16px;
 }
 
@@ -27,14 +27,14 @@ ul li a
 
 ul li a p
 {
-  width: 75%;
+  width: 80%;
   list-style-type: none;
-  background: #E94016;
+  background: #303f9f;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
   color: white;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 
@@ -81,10 +81,10 @@ section.sidebar_information
 div.sidebar_userimage
 {
   cursor: pointer;
-  border-radius: 80px;
+  border-radius: 150px;
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 0% 35% 0;
+  margin: 0% 0% 0;
   padding: 8% 0 0;
   text-align: center;
 
@@ -102,7 +102,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: #26a69a;
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -118,8 +118,8 @@ div.logo
 
 div.logo img
 {
-  width: 45px;
-  border-radius: 45px;
+  width: 60px;
+  border-radius: 60px;
   padding: 0;
   margin: 0;
 }
@@ -129,8 +129,8 @@ div.nombre
 display: inline-block;
 vertical-align: top;
 padding: 0;
-margin: 0% 33%;
-font-size: 15px;
+margin: 0% 0%;
+font-size: 18px;
 text-align: center;
 }
 
